@@ -1,0 +1,5 @@
+# Dependencies of tweet_to_geojson
+--index-url https://pypi.python.org/simple/
+
+tweepy==3.3.0
+geojson==1.2.1
