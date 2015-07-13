@@ -39,9 +39,7 @@ Stop live stream than process raw twitter data
 Contribute anyway you like
 
 ### Data Visualization
-*   
-    [QGIS] is in an oldschool geographer way by loading *tweets.geojson*  (example above)
-* matplotlib [basemap] toolkit 
+The [QGIS] is an oldschool way by loading *tweets.geojson*  (example above) or just matplotlib [basemap] toolkit 
 
 
 ### Todo's
