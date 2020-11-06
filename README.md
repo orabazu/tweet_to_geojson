@@ -1,6 +1,6 @@
 # Tweet to GeoJSON
 Bunch of code let you stream twitter data with a given hashtag or keyword then convert it to proper GeoJSON format.
-![Alt text](http://i.imgur.com/15slne0.jpg"title")
+
 ### Version
 0.0.1
 
